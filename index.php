@@ -12,86 +12,95 @@
 
     <main class="bg-red-200 h-[640px] w-[380px] rounded">
         <header class="flex justify-center items-center py-5 gap-5 bg-orange-300 rounded-t-md">
-<a href="index.html">
-    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-10 h-10 text-red-500 hover:-transalate-x-4m hover:scale-150 transition-all">
-        <path stroke-linecap="round" stroke-linejoin="round" d="M9 15L3 9m0 0l6-6M3 9h12a6 6 0 010 12h-3" />
-      </svg>
-      
 
-</a>
 <h1 class="text-2xl"> main menu (OPP)</h1>
         </header>
         <section class="p-5 my-2 overflow-y-auto h-[540px]">
 <nav class="flex flex-col gap-2 justify-center items-center">
-<a href="" class="flex gap-3 bg-pink-200 px-20 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all">
+<a href="01-class.php" class="flex gap-3 bg-pink-200 px-10 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all w-[320px]">
     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
         <path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0111.186 0z" />
       </svg>
-      
-    01 example
+      01 - class
 </a>
-<a href="" class="flex gap-3 bg-pink-200 px-20 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all">
+<a href="" class="flex gap-3 bg-pink-200 px-10 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all w-[320px]">
     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
         <path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0111.186 0z" />
       </svg>
       
-    02 example
+    02 - construct
 </a>
-<a href=""class="flex gap-3 bg-pink-200 px-20 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all">
+<a href=""class="flex gap-3 bg-pink-200 px-10 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all w-[320px]">
     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
         <path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0111.186 0z" />
       </svg>
       
-    03 example
+    03 - private
 </a>
-<a href=""class="flex gap-3 bg-pink-200 px-20 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all">
+<a href=""class="flex gap-3 bg-pink-200 px-10 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all w-[320px]">
     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
         <path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0111.186 0z" />
       </svg>
       
-    04 example
+    04 - collaboration
 </a>
-<a href=""class="flex gap-3 bg-pink-200 px-20 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all">
+<a href=""class="flex gap-3 bg-pink-200 px-10 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all w-[320px]">
     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
         <path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0111.186 0z" />
       </svg>
       
-    05 example
+    05 - parameters
 </a>
-<a href=""class="flex gap-3 bg-pink-200 px-20 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all">
+<a href=""class="flex gap-3 bg-pink-200 px-10 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all w-[320px]">
     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
         <path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0111.186 0z" />
       </svg>
       
-    06 example
+    06 - extends
 </a>
-<a href=""class="flex gap-3 bg-pink-200 px-20 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all">
+<a href=""class="flex gap-3 bg-pink-200 px-10 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all w-[320px]">
     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
         <path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0111.186 0z" />
       </svg>
       
-    07 example
+    07 - overwrite method
 </a>
-<a href=""class="flex gap-3 bg-pink-200 px-20 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all">
+<a href=""class="flex gap-3 bg-pink-200 px-10 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all w-[320px]">
     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
         <path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0111.186 0z" />
       </svg>
       
-    08 example
+    08 - overwhite contruct
 </a>
-<a href=""class="flex gap-3 bg-pink-200 px-20 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all">
+<a href=""class="flex gap-3 bg-pink-200 px-10 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all w-[320px]">
     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
         <path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0111.186 0z" />
       </svg>
       
-    09 example
+    09 - class abstract
 </a>
-<a href=""class="flex gap-3 bg-pink-200 px-20 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all">
+<a href=""class="flex gap-3 bg-pink-200 px-10 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all w-[320px]">
     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
         <path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0111.186 0z" />
       </svg>
       
-    10 example
+    10 - method abstract
+</a>
+
+<a href=""class="flex gap-3 bg-pink-200 px-10 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all w-[320px]">
+  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+      <path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0111.186 0z" />
+    </svg>
+    
+  11 - class final
+</a>
+
+<a href=""class="flex gap-3 bg-pink-200 px-10 py-3 rounded-md opacity-70 hover:opacity-100 hover:scale-105 transition-all w-[320px]">
+  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+      <path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0111.186 0z" />
+    </svg>
+    
+  12 - method final
 </a>
 
 </nav>
